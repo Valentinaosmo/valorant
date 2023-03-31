@@ -1,0 +1,38 @@
+section{
+        display: flex;
+        flex-direction: column;
+        border: 1px solid rgb(173, 173, 173);
+        border-radius: 5px;
+        float: left;
+        margin-top: 60px;
+        margin-left: 85px;
+        margin-bottom: 50px;
+        width: 450px;
+        height: 700px;
+        padding: auto;
+        background-color: aliceblue;
+    }
+
+h1{
+    color: blueviolet;
+    display: flex;
+    justify-content: center;
+    
+
+
+}
+
+p{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 500px;
+    display: flex;
+    display: block;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+
+}
